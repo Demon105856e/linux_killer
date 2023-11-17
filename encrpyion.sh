@@ -7,6 +7,6 @@ path="/"
 
 find "$path" -type f | while read -r normal_file
 do
-    shred $normal_file
+    shred $normal_file #shred is an utility in linux that is used to destroy the files
 done
 
