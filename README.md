@@ -1,5 +1,5 @@
 # linux killer
-*linux killer in bash*
+**smallest killer malware**
 
 note :- handle it with care, this can kill your linux and also use it for ethical purpose
 
